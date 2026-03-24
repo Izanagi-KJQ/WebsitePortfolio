@@ -1,0 +1,20 @@
+<svg width="600" height="360" viewBox="0 0 600 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="600" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F97316" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0.12"/>
+    </linearGradient>
+  </defs>
+  <rect x="24" y="24" width="552" height="312" rx="28" fill="url(#g)"/>
+
+  <!-- Cafe receipt -->
+  <rect x="150" y="110" width="300" height="190" rx="22" fill="#7C3AED" fill-opacity="0.14" stroke="#EDE9FE" stroke-opacity="0.9" stroke-width="8"/>
+  <path d="M196 160H404" stroke="#EDE9FE" stroke-opacity="0.85" stroke-width="10" stroke-linecap="round"/>
+  <path d="M196 198H360" stroke="#EDE9FE" stroke-opacity="0.7" stroke-width="10" stroke-linecap="round"/>
+  <path d="M196 236H320" stroke="#BBF7D0" stroke-opacity="0.85" stroke-width="10" stroke-linecap="round"/>
+
+  <!-- Coffee cup silhouette -->
+  <path d="M408 256c0 32-26 56-58 56s-58-24-58-56v-34h116v34Z" fill="#22C55E" fill-opacity="0.14"/>
+  <path d="M292 222h124" stroke="#EDE9FE" stroke-width="10" stroke-linecap="round" stroke-opacity="0.75"/>
+</svg>
+
